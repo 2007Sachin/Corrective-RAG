@@ -1,7 +1,7 @@
 import os
 
 # Groq API Configuration
-GROQ_API_KEY = "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"  # Use the environment variable name, not the key itself
+GROQ_API_KEY = "Your API Key"
 MODEL_NAME = "llama3-8b-8192"
 
 # Embedding Model
